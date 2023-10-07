@@ -1,1 +1,1 @@
-# typescript For use with Pluralsight typescript course
+# typescript is for use with Pluralsight typescript course
