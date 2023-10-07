@@ -1,4 +1,4 @@
-let greeting: string = 'compiler test success';
+let greeting: string = 'configuration test success';
 console.log (greeting);
 
 
