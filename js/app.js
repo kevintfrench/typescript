@@ -1,2 +1,2 @@
-var greeting = 'test compiler';
+var greeting = 'compiler test success';
 console.log(greeting);
